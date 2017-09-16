@@ -1,3 +1,3 @@
 # NAngKursWalut
 
-To jest przykładowy plik Readme, taki testowy.
+To jest przykładowy plik Readme, taki testowy..
