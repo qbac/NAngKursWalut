@@ -1,3 +1,3 @@
 # NAngKursWalut
 
-Hello World !!
+To jest przykładowy plik Readme.
